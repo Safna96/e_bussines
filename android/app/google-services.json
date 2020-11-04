@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949639383841",
+    "firebase_url": "https://ebussines-b22b9.firebaseio.com",
+    "project_id": "ebussines-b22b9",
+    "storage_bucket": "ebussines-b22b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949639383841:android:a6c68b341f3100f90c0c60",
+        "android_client_info": {
+          "package_name": "com.plantzone.ebussines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949639383841-6lqislgqdj2k15n1qlrj9ii70sp7n5m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5j1CGwQJeuOtWGCVa2uNfSyiupjD5pgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949639383841-6lqislgqdj2k15n1qlrj9ii70sp7n5m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
